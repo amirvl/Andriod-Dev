@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundGravity="center">
+
+        <TextView
+            android:id="@+id/descriptionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="After identify a space \n•Signal, check traffic, and stop parallel to the car in front of the spot. \n•Turn the wheel fully to the right. \n•Slowly reverse until front bumper aligns with the back left corner of the front vehicle. \n•Turn the wheel fully to the left to straighten your car within the parking spot. \n•Adjusting position if necessary to allow for safe exit."
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

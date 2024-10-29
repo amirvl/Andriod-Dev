@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EECS4443 Project</string>
+    <string name="title_text">EECS4443 Final Project</string>
+    <string name="traditional_text">Traditional</string>
+    <string name="gamified_text">Gamified</string>
+    <string name="timer_text">Test Timer</string>
+    <string name="A">A. Check Your Mirrors and signal</string>
+    <string name="B">B. Check Your Mirrors Again</string>
+    <string name="C">C. Check Blind Spot</string>
+    <string name="D">D. Turn Off signal</string>
+    <string name="E">E. Make Gradual Change</string>
+    <string name="right_lane_ends">Right lane ends ahead</string>
+    <string name="sharpturn">Sharpturn</string>
+    <string name="no_passing">Passing is not allowed</string>
+    <string name="no_entry">No entry</string>
+    <string name="construction">Construction ahead</string>
+</resources>
